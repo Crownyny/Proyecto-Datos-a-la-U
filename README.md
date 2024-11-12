@@ -14,6 +14,8 @@ Para el preprocesamiento de datos, utilizamos el notebook `General.ipynb`, que c
 
 Los datos geográficos de longitud y latitud están en el archivo `GeoColombia.json`.
 
+Tambien se cuenta con un dashboard en PowerBI con la visualizacion de los datos `DataVisualization.pbix`, aunque este todavia no tiene integracion con ninguno de los modelos
+
 ### Modelos Utilizados
 Los modelos empleados para la predicción espacial (IDW) y la predicción temporal se encuentran en la carpeta `Matlab Scripts`. Dentro de esta carpeta, hay una subcarpeta con el mapa de formas de Colombia como referencia.
 
