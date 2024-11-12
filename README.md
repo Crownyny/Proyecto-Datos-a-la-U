@@ -43,6 +43,6 @@ Para facilitar el manejo de los datos, hemos organizado ciertas carpetas adicion
 
 - **Datos de Capturas 2010-2015**: [Reporte Capturas Policía Nacional de Colombia](https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Capturas-Polic-a-Nacional-de-Colombia/cukt-wz9m/about_data)
 - **Datos de Capturas 2015-09/2024**: [Policía Nacional - Resultados Operativos](https://www.policia.gov.co/resultados-operativos)
-- **Geo-referencias**: [Geoportal DANE - Divipola](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-divipola/)
+- **Geo-referencias**: [Geoportal DANE - Divipola](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/datos-geoestadisticos/)
 
 --- 
