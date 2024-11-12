@@ -1,5 +1,3 @@
----
-
 # REPOSITORIO PARA EL CONCURSO "DATOS A LA U"
 
 ## PROYECTO: Análisis espacio-temporal de la dinámica del delito en el territorio colombiano
