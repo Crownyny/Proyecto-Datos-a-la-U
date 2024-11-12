@@ -12,7 +12,7 @@
 ### Descripción del Proyecto
 Para el preprocesamiento de datos, utilizamos el notebook `General.ipynb`, que carga los datos desde el archivo `Datos2010-2024.csv`. Este notebook también permite pivotear y despivotear los datos, lo cual es necesario para que el modelo pueda predecir el siguiente valor para todos los municipios de un departamento o a nivel nacional.
 
-Los datos geográficos de longitud y latitud están en el archivo `GeoCOlombia.json`.
+Los datos geográficos de longitud y latitud están en el archivo `GeoColombia.json`.
 
 ### Modelos Utilizados
 Los modelos empleados para la predicción espacial (IDW) y la predicción temporal se encuentran en la carpeta `Matlab Scripts`. Dentro de esta carpeta, hay una subcarpeta con el mapa de formas de Colombia como referencia.
